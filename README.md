@@ -16,8 +16,10 @@ to adapt quickly to new challenges. I thrive in dynamic environments!
 |     2| Selenium     |
 |     3| TestNg       |
 |     4| Cucumber     |
-|     5| Postman      |
-|     6| Rest Assured |
+|     5| MySql        |
+|     6| Postman      |
+|     7| Rest Assured |
+|     8| Jenkins      |
 
 <!--
 **ZehraGKrl/ZehraGKrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
