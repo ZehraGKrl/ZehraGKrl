@@ -9,7 +9,7 @@ to adapt quickly to new challenges. I thrive in dynamic environments!
 
 📫 Anybody who would like to contact me can use my below email address 👇
 
- --------------------- zehragkrl@gmail.com ------------------------------
+    --------------------- zehragkrl@gmail.com ------------------------------
 
 
 <!--
