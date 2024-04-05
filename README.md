@@ -7,7 +7,7 @@ flawless user experiences.
 My diverse skill set includes proficiency in various testing methodologies, a keen eye for identifying and solving problems, and the ability
 to adapt quickly to new challenges. I thrive in dynamic environments!
 
-📫 Anybody who would like to contact me can use my below email address 👇
+📫 Anybody who would like to contact me can use my email address 👉
                         zehragkrl@gmail.com 
 
 
