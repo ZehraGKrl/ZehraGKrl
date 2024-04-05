@@ -10,6 +10,14 @@ to adapt quickly to new challenges. I thrive in dynamic environments!
 📫 Anybody who would like to contact me can use my email address 👉
                         zehragkrl@gmail.com 
 
+| Rank | Languages    |
+|-----:|--------------|
+|     1| Java         |
+|     2| Selenium     |
+|     3| TestNg       |
+|     4| Cucumber     |
+|     5| Postman      |
+|     6| Rest Assured |
 
 <!--
 **ZehraGKrl/ZehraGKrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
